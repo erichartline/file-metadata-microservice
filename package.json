@@ -5,10 +5,11 @@
     "node": "6.9.2",
     "npm": "4.6.1"
   },
-  "description": "This is an API challenge from [freeCodeCamp](https://www.freecodecamp.com/challenges/file-metadata-microservice). Currently a work in progress.",
+  "description": "This is an API challenge from [freeCodeCamp](https://www.freecodecamp.com/challenges/file-metadata-microservice).",
   "main": "app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
   },
   "repository": {
     "type": "git",
