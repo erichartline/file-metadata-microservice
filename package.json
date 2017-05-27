@@ -1,6 +1,10 @@
 {
   "name": "file-metadata-microservice",
   "version": "1.0.0",
+  "engines": {
+    "node": "6.9.2",
+    "npm": "4.6.1"
+  }
   "description": "This is an API challenge from [freeCodeCamp](https://www.freecodecamp.com/challenges/file-metadata-microservice). Currently a work in progress.",
   "main": "app.js",
   "scripts": {
