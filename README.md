@@ -8,4 +8,4 @@ Future Ideas:
 - Run my own tests using Mocha/Chai
 - Refactor to pass FCC's beta tests
 
-Heroku Demo coming soon
+[Heroku Demo](https://sheltered-lowlands-78725.herokuapp.com/)
